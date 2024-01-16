@@ -1,3 +1,2 @@
-It is a Source code for my Portfolio
-I have Created a detailed Portfolio about myself using HTML, CSS, Javascript and also bootstrap.And deployed the webpage using vercel projects
+It is Source code for the portfolio that I have created to Show my skills to others. I have created the webpage using HTML, CSS, Javascript and also bootstrap.And deployed the webpage using vercel projects
 
